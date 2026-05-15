@@ -81,3 +81,6 @@ results/logs/*
 !results/entropy_maps/.gitkeep
 !results/experiments/.gitkeep
 !results/logs/.gitkeep
+upload_swarmica.py
+upload_swarmica.py.bak
+*_token_*
