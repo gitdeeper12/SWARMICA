@@ -1,0 +1,6 @@
+# CLO Configuration
+n_basis: 64
+alpha: 0.15
+mu_dissipation: 0.02
+integration_method: rk4
+dt: 0.001

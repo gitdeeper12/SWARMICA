@@ -1,0 +1,5 @@
+# KPSL Configuration
+k_coupling: 3.0
+delta_freq: 0.5
+distribution: lorentzian
+dt: 0.001

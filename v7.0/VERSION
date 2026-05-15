@@ -1,0 +1,15 @@
+SWARMICA v7.0.0
+Release: Continuous Neural Control PDE System
+
+Core Features:
+- Continuous-Time Optimal Control Formulation
+- Neural Operator PDE (learned dynamics)
+- Variational Stability Structure
+- Energy Functional Minimization
+- Lyapunov Stability Observable
+
+System Class:
+Neural Controlled Stochastic PDE
+with Variational Stability Structure
+
+Status: ✅ Alpha Release - Paper Grade Ready

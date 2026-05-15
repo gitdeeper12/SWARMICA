@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.benchmarks/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+results/
+logs/
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Netlify local
+.netlify/
+
+# Results directory (keep structure but ignore data)
+results/*.json
+results/*.pkl
+results/*.csv
+results/*.md
+results/*.txt
+!results/README.md
+results/csi_reports/*
+results/convergence_plots/*
+results/entropy_maps/*
+results/experiments/*
+results/logs/*
+!results/csi_reports/.gitkeep
+!results/convergence_plots/.gitkeep
+!results/entropy_maps/.gitkeep
+!results/experiments/.gitkeep
+!results/logs/.gitkeep

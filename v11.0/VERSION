@@ -1,0 +1,16 @@
+SWARMICA v11.0.0
+Release: Neural Operator Swarm Physics
+
+Core Features:
+- Neural Operator Learning (Fθ: state → dynamics)
+- Fourier/Spectral Layer for global interactions
+- Learned PDE discovery from data
+- Continuous dynamics learning
+- Operator-based physics approximation
+
+System Class:
+Neural Operators (DeepONet / FNO)
+Scientific Machine Learning (SciML)
+Data-driven PDE discovery
+
+Status: ✅ Frontier Release

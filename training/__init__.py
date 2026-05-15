@@ -1,0 +1,1 @@
+"""SWARMICA training pipeline"""

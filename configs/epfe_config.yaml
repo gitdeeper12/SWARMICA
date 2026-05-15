@@ -1,0 +1,5 @@
+# EPFE Configuration
+sos_degree: 4
+alpha: 0.15
+basin_radius: 5.0
+solver: simplified

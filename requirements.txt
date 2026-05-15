@@ -1,0 +1,11 @@
+# SWARMICA v1.0.0 Core Requirements
+# Variational and Continuum Mechanics Framework for Collective Swarm Stability
+
+torch>=2.4.0
+jax>=0.4.0
+jaxlib>=0.4.0
+numpy>=2.0.0
+scipy>=1.14.0
+cvxpy>=1.4.0
+matplotlib>=3.7.0
+pyyaml>=6.0

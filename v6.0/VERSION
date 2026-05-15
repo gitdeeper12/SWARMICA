@@ -1,0 +1,15 @@
+SWARMICA v6.0.0
+Release: Neural Optimal Swarm Physics Engine
+
+Core Features:
+- Pontryagin Maximum Principle (PMP)
+- Neural PDE Operator (learned dynamics)
+- State-Costate Optimal Control
+- Adjoint-Based Variational Learning
+- Stochastic Continuum Swarm Physics
+
+System Class:
+Stochastic Neural Optimal Control PDE System
+with Adjoint-Based Variational Learning
+
+Status: ✅ Alpha Release

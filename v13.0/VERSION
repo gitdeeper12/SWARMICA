@@ -1,0 +1,17 @@
+SWARMICA v13.0.0
+Release: Autonomous Physical Law Discovery System
+
+Core Features:
+- Symbolic PDE Discovery
+- Sparse Identification of Nonlinear Dynamics (SINDy)
+- PDE Library Construction
+- Differential Estimator
+- Sparse Physics Selector (Lasso)
+- Constraint Verifier
+
+System Class:
+PDE Discovery | Symbolic AI for Physics
+Sparse Dynamical Systems Identification
+Scientific Foundation Models
+
+Status: ✅ Research Frontier Release

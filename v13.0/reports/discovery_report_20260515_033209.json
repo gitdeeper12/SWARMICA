@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-05-15T03:32:09.984838",
+  "config": {
+    "N": 40,
+    "dt": 0.01,
+    "alpha": 0.001
+  },
+  "discovered_pde": "\u2202u/\u2202t = - 0.0999\u00b7u + 0.9967\u00b7\u2202u/\u2202x + 0.9967\u00b7\u2202u/\u2202y",
+  "coefficients": {
+    "u": -0.09987863662943046,
+    "\u2202u/\u2202x": 0.9967285258997711,
+    "\u2202u/\u2202y": 0.9967207190274969
+  },
+  "verification": {
+    "verified": true,
+    "warnings": [],
+    "has_diffusion": false,
+    "has_advection": true,
+    "has_reaction": false,
+    "complexity": 3
+  },
+  "summary": {
+    "num_terms": 3,
+    "sparsity": 0.625,
+    "has_diffusion": false,
+    "has_advection": true,
+    "has_reaction": false,
+    "verified": true
+  }
+}

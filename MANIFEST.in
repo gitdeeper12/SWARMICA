@@ -1,0 +1,35 @@
+# SWARMICA v1.0.0 Manifest File
+
+include README.md
+include LICENSE
+include AUTHORS.md
+include CHANGELOG.md
+include CONTRIBUTING.md
+include CODE_OF_CONDUCT.md
+include SECURITY.md
+include CITATION.cff
+
+include pyproject.toml
+include requirements.txt
+include requirements-dev.txt
+
+recursive-include swarmica *.py
+recursive-include tests *.py
+recursive-include examples *.py
+recursive-include scripts *.sh *.py
+recursive-include configs *.yaml *.yml
+
+recursive-include Netlify *.html *.css *.js
+
+exclude .gitignore
+exclude .dockerignore
+exclude Dockerfile
+exclude Makefile
+exclude COMPLETION.md
+exclude .env.example
+
+prune __pycache__
+prune *.pyc
+prune .pytest_cache
+prune .coverage
+prune htmlcov

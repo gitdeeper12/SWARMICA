@@ -1,0 +1,16 @@
+SWARMICA v9.0.0
+Release: Continuum PDE + Energy Learning Swarm System
+
+Core Features:
+- Continuum Field Dynamics (ρ, v)
+- Energy Functional E[ρ]
+- PDE-based Collective Intelligence
+- Active Matter Physics
+- Reaction-Diffusion System
+
+System Class:
+Computational Fluid Dynamics (CFD)
+Active Matter Physics
+Reaction-Diffusion Systems
+
+Status: ✅ Research Release

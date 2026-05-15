@@ -1,0 +1,12 @@
+SWARMICA v2.0.0
+Release: Stochastic Continuum Dynamics & Adaptive Field Control
+
+Core Features:
+- Vector Field Swarm Physics
+- Multi-Attractor System (A1 + A2)
+- CSI (Collective Stability Index)
+- Entropy + Lyapunov Metrics
+- Stochastic Noise (Brownian)
+- Pure Python (No NumPy)
+
+Status: ✅ Beta

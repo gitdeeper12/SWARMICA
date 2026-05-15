@@ -1,0 +1,5 @@
+# SWARMICA v2.0 Requirements
+# No NumPy required - Pure Python compatible
+
+streamlit>=1.28.0
+plotly>=5.17.0

@@ -1,0 +1,15 @@
+SWARMICA v5.0.0
+Release: Variational Swarm Control Engine
+
+Core Features:
+- Variational Optimal Control over PDE fields
+- Stochastic PDE dynamics with control
+- Cost functional: Energy + Entropy + Control
+- Pontryagin-inspired feedback law
+- Real-time variational metric tracking
+
+System Class:
+Stochastic Variational PDE Control System
+(Continuous Optimal Swarm Control)
+
+Status: ✅ Alpha Release

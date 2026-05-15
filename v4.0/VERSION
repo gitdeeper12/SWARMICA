@@ -1,0 +1,15 @@
+SWARMICA v4.0.0
+Release: Neural Energy PDE Swarm Engine
+
+Core Features:
+- Learnable Energy Functional E_θ(ρ)
+- Neural-Parameterized Continuum Physics
+- Controlled Reaction-Diffusion PDE
+- Phase Transition Detection
+- Online Energy Landscape Adaptation
+
+System Class:
+Neural Controlled Reaction-Diffusion System
+with Adaptive Energy Landscape
+
+Status: ✅ Alpha Release

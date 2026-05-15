@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use SWARMICA in your research, please cite this work."
+title: "SWARMICA: A Variational and Continuum Mechanics Framework for Collective Stability in Autonomous Swarm Systems"
+version: 1.0.0
+doi: 10.5281/zenodo.20168278
+date-released: 2026-05-01
+url: "https://github.com/gitedeeper12/SWARMICA"
+authors:
+  - family-names: "Baladi"
+    given-names: "Samir"
+    orcid: "https://orcid.org/0009-0003-8903-0029"
+    affiliation: "Ronin Institute / Rite of Renaissance"
+keywords:
+  - swarm intelligence
+  - collective stability
+  - variational mechanics
+  - continuum active matter
+  - Lagrangian mechanics
+  - Kuramoto synchronization
+  - effective potential field
+  - Jacobian stability
+  - multi-agent systems
+  - autonomous robotics
+license: "MIT"
+repository: "https://github.com/gitedeeper12/SWARMICA"

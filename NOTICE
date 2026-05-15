@@ -1,0 +1,22 @@
+SWARMICA v1.0.0
+Variational and Continuum Mechanics Framework for Collective Stability in Autonomous Swarm Systems
+
+Copyright (c) 2026 Samir Baladi
+Ronin Institute / Rite of Renaissance
+
+This product includes software developed by:
+- PyTorch contributors (BSD-style license)
+- JAX contributors (Apache 2.0 license)
+- SciPy contributors (BSD license)
+- CVXPY contributors (Apache 2.0 license)
+
+For complete license information, see LICENSE file.
+
+Project Links:
+- GitHub: https://github.com/gitedeeper12/SWARMICA
+- GitLab: https://gitlab.com/gitedeeper12/SWARMICA
+- PyPI: https://pypi.org/project/swarmica-engine
+- Documentation: https://swarmica-v1.netlify.app
+- DOI: 10.5281/zenodo.20168278
+
+Contact: gitdeeper@gmail.com

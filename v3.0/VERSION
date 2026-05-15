@@ -1,0 +1,16 @@
+SWARMICA v3.0.0
+Release: PDE Swarm Physics Engine & Neural Energy Fields
+
+Core Features:
+- PDE-based continuum swarm dynamics
+- Energy functional minimization
+- Reaction-diffusion system
+- Multi-attractor field structure
+- Laplacian diffusion physics
+- Stochastic reaction terms
+
+System Class:
+Nonlinear Stochastic Reaction-Diffusion System
+(Active Matter Physics Approximation)
+
+Status: ✅ Alpha Release

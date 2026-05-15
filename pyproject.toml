@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "swarmica-engine"
+version = "13.0.0"
+description = "SWARMICA: Autonomous Physical Law Discovery System - From Classical Mechanics to Neural Operator Physics"
+authors = [
+    {name = "Samir Baladi", email = "gitdeeper@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Engineering",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Topic :: Scientific/Engineering :: Mathematics"
+]
+
+dependencies = [
+    "streamlit>=1.28.0",
+    "plotly>=5.17.0"
+]
+
+[project.urls]
+"Homepage" = "https://swarmica.netlify.app"
+"Documentation" = "https://swarmica.netlify.app/documentation"
+"Repository" = "https://github.com/gitedeeper12/SWARMICA"
+"GitLab" = "https://gitlab.com/gitedeeper12/SWARMICA"
+"DOI" = "https://doi.org/10.5281/zenodo.20168278"
+"Changelog" = "https://github.com/gitedeeper12/SWARMICA/blob/main/CHANGELOG.md"
+
+[project.scripts]
+swarmica = "swarmica.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["swarmica*"]
+
+[tool.setuptools.package-data]
+swarmica = ["**/*.py"]

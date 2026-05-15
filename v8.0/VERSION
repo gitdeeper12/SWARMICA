@@ -1,0 +1,16 @@
+SWARMICA v8.0.0
+Release: Unified Field Control Engine
+
+Core Features:
+- Vector Field Swarm Dynamics
+- Multi-Attractor Potential Field
+- Lyapunov Stability Monitor
+- Entropy + CSI Metrics
+- Continuous PDE-like Update (Discretized)
+- Stochastic Perturbation System
+
+System Class:
+Agent-based Continuum Approximation
+with Multi-Potential Energy Field
+
+Status: ✅ Stable Release

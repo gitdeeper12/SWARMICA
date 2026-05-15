@@ -1,0 +1,12 @@
+SWARMICA v1.0.0
+Release: Classical Variational Mechanics Framework
+
+Core Features:
+- Physical Coupling Manifold (PCM)
+- Collective Lagrangian Operator (CLO)
+- Effective Potential Field Engine (EPFE)
+- Kuramoto Phase Synchronization Layer (KPSL)
+- Jacobian Stability Certificate
+
+DOI: 10.5281/zenodo.20168278
+Status: ✅ Stable
