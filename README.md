@@ -26,6 +26,10 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4%2B-orange.svg)](https://pytorch.org)
 [![JAX](https://img.shields.io/badge/JAX-0.4%2B-purple.svg)](https://jax.readthedocs.io)
 
+[![IJERT](https://img.shields.io/badge/IJERT-Volume%2015%2C%20Issue%2005%2C%20May%202026-red)](https://www.ijert.org)
+[![Paper ID](https://img.shields.io/badge/Paper%20ID-IJERTV15IS051518-blue)](https://www.ijert.org)
+[![ISSN](https://img.shields.io/badge/ISSN-2278--0181-green)](https://www.ijert.org)
+
 ---
 
 > *"The swarm is not a collection of agents. It is a single thought, distributed across a thousand bodies, moving through the geometry of its own potential. SWARMICA gives that thought a direction — and proves, mathematically, that it will arrive."*
@@ -595,6 +599,36 @@ If you use SWARMICA in your research, please cite both the Zenodo software archi
                   Ronin Institute / Rite of Renaissance. MIT License.}
 }
 ```
+
+### Journal Publication (IJERT)
+
+[![IJERT](https://img.shields.io/badge/IJERT-Volume%2015%2C%20Issue%2005%2C%20May%202026-red)](https://www.ijert.org)
+[![Paper ID](https://img.shields.io/badge/Paper%20ID-IJERTV15IS051518-blue)](https://www.ijert.org)
+
+```bibtex
+@article{baladi2026swarmica_ijert,
+  author       = {Baladi, Samir},
+  title        = {SWARMICA: Autonomous Physical Law Discovery System - From Classical
+                  Mechanics to Neural Operator Physics},
+  journal      = {International Journal of Engineering Research \& Technology (IJERT)},
+  volume       = {15},
+  number       = {5},
+  year         = {2026},
+  month        = {May},
+  issn         = {2278-0181},
+  paperid      = {IJERTV15IS051518},
+  url          = {https://www.ijert.org},
+  note         = {Accepted for publication. Open access journal.}
+}
+```
+
+Journal Information:
+
+· ISSN: 2278-0181
+· Volume: 15, Issue 05, May 2026
+· Paper ID: IJERTV15IS051518
+· Type: Peer-reviewed, Open Access
+· Publisher: International Journal of Engineering Research & Technology
 
 ---
 
